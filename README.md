@@ -4,6 +4,8 @@ The **Scala Edition** of Powder Sandbox brings the terminal-based falling-sand s
 
 This version appeals to those who love precision, structure, and power — every behavior can be defined through elegant pattern matching and functional composition.
 
+### See [GameHub](https://github.com/RobertFlexx/Powder-Sandbox-GameHub) for more editions of this game.
+
 ---
 
 ## Features
